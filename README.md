@@ -1,7 +1,7 @@
 ## Oi 👋, me chamo Mateus Rocha Pinto.
 
 - 💻 Atualmente sou analista de 🛡️ desenvolvimento seguro e ⚔️ testes de sistemas II (pleno).
-- 📊 Sou formado em gestão de processos de T.I e dados.
+- 📊 Sou formado em gestão de processos de T.I e dados pela FATEC Itú.
 - 📧 E-Mail para contato: mateus-rochap44@outlook.com.
 - 📲 Número de telefone para contato: 🇧🇷 +5515991486668.
 
